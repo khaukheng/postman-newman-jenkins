@@ -14,7 +14,7 @@
 						"id": "c834ba60-6a08-479a-81d5-505b2118ae99",
 						"exec": [
 							"tests['Status code is 200'] = responseCode.code === 200;",
-							"tests['Body matches string'] = responseBody.has(\"qui est esse\");"
+							"tests['Body matches string'] = responseBody.has(\"kqui est esse\");"
 						],
 						"type": "text/javascript"
 					}
