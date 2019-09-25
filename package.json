@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-test-production": "newman run tests/LearnAPITesting.postman_collection.json"
+    "api-test-production": "newman run tests/LearnAPITesting.postman_collection.json --disable-unicode"
   },
   "author": "",
   "dependencies": {
